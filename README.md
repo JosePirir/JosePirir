@@ -25,20 +25,26 @@
 <p align="center"><b>Backend y Lenguajes</b></p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=go,python,java,cs,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,cs,nodejs,ts,fortran" />
   </a>
 </p>
 
 <p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,aws,rabbitmq,linux" />
   </a>
 </p>
 
 <p align="center"><b>Databases & Observability</b></p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,grafana" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,grafana" />
+  </a>
+</p>
+<p align="center"><b>Versionamiento</b></p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,grafana" />
   </a>
 </p>
