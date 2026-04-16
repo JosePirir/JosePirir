@@ -42,9 +42,3 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,grafana" />
   </a>
 </p>
-<p align="center"><b>Versionamiento</b></p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,grafana" />
-  </a>
-</p>
